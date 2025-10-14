@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Rex and I'm a Backend Developer from Philippines</h4>
+<h4 align="left">Hi 👋! My name is Rex and I'm a Web Developer from Philippines</h4>
 
 ###
 
