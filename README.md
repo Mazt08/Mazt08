@@ -1,4 +1,4 @@
-## 👋 Hi, I'm John Rex
+## 🧍 About Me
 
 🎓 **BSIT Student**  
 📱 Learning **Mobile Development**  
