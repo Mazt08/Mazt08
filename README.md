@@ -4,8 +4,6 @@
 📱 Learning **Mobile Development**  
 🛡️ Interested in **Ethical Hacking & Cybersecurity**  
 🚀 Continuously improving skills in development and security
-
-
 ## 🌐 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Aspirasj6@gmail.com)
@@ -18,4 +16,4 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aspirasj6&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mazt08&theme=dark)
